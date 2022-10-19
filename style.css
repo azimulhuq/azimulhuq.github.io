@@ -4,9 +4,19 @@ body {
 
 section {
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-figure {   
-    height: 100vh;
-    margin: 0 auto;
+figure .construction {   
+    height: 70vh;   
+}
+
+figure .logo {
+    position: relative;
+    max-width: 100px;
+    bottom: 15vh;
+    left: 30vw;
+    z-index: 1;
 }
