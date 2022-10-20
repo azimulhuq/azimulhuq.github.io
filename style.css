@@ -16,7 +16,7 @@ figure .construction {
 figure .logo {
     position: relative;
     max-width: 100px;
-    bottom: 15vh;
-    left: 30vw;
+    bottom: 10vh;
+    left: 15vw;
     z-index: 1;
 }
