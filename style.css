@@ -7,16 +7,13 @@ section {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-
-figure .construction {   
-    height: 70vh;   
+    height: 90vh;   
 }
 
 figure .logo {
     position: relative;
     max-width: 100px;
-    bottom: 10vh;
-    left: 15vw;
+    bottom: 3vh;
+    left: 39vw;
     z-index: 1;
 }
